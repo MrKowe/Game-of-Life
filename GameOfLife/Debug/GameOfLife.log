@@ -1,0 +1,12 @@
+﻿  Game.cpp
+  GameField.cpp
+c:\users\konrad wenc\source\repos\gameoflife\gameoflife\gamefield.cpp(235): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+c:\users\konrad wenc\source\repos\gameoflife\gameoflife\main.cpp : warning C4828: The file contains a character starting at offset 0x3a that is illegal in the current source character set (codepage 65001).
+c:\users\konrad wenc\source\repos\gameoflife\gameoflife\main.cpp : warning C4828: The file contains a character starting at offset 0x3f that is illegal in the current source character set (codepage 65001).
+c:\users\konrad wenc\source\repos\gameoflife\gameoflife\main.cpp : warning C4828: The file contains a character starting at offset 0x4a that is illegal in the current source character set (codepage 65001).
+c:\users\konrad wenc\source\repos\gameoflife\gameoflife\main.cpp : warning C4828: The file contains a character starting at offset 0x4e that is illegal in the current source character set (codepage 65001).
+c:\users\konrad wenc\source\repos\gameoflife\gameoflife\main.cpp : warning C4828: The file contains a character starting at offset 0xf6 that is illegal in the current source character set (codepage 65001).
+c:\users\konrad wenc\source\repos\gameoflife\gameoflife\main.cpp : warning C4828: The file contains a character starting at offset 0x19c that is illegal in the current source character set (codepage 65001).
+  Generating Code...
+  GameOfLife.vcxproj -> C:\Users\Konrad Wenc\source\repos\GameOfLife\Debug\GameOfLife.exe
